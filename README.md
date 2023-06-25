@@ -20,3 +20,5 @@
 ![Screenshot (55)](https://github.com/KhaledElnassag/Talabat/assets/86826553/9cc3f45e-c4f5-4f36-b666-d2918b2a2295)
 
 ![Screenshot (56)](https://github.com/KhaledElnassag/Talabat/assets/86826553/5f7777da-12cc-489d-bd9f-4896d0c49d90)
+
+![Screenshot (69)](https://github.com/KhaledElnassag/Talabat/assets/86826553/dde74d7f-867e-480c-8dcf-21aa6e4c4550)
