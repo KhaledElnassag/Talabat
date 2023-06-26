@@ -20,6 +20,10 @@
 
 ![Screenshot (55)](https://github.com/KhaledElnassag/Talabat/assets/86826553/9cc3f45e-c4f5-4f36-b666-d2918b2a2295)
 
+![Screenshot (56)](https://github.com/KhaledElnassag/Talabat/assets/86826553/5f7777da-12cc-489d-bd9f-4896d0c49d90)
+
+![Screenshot (57)](https://github.com/KhaledElnassag/Talabat/assets/86826553/5e2ec7ef-8ec8-41b9-a247-dc6d0c95e142)
+
 In this project, I had the opportunity to implement a wide range of features that have transformed our application into a powerful and efficient platform. Let's explore the key highlights:
 
 1️⃣ Generic Repository and Specification: Leveraging the power of the generic repository pattern and the flexibility of specifications, we achieved a modular and maintainable data access layer. This allowed us to decouple data retrieval logic from the business layer, resulting in clean and reusable code.
@@ -42,8 +46,5 @@ In this project, I had the opportunity to implement a wide range of features tha
 
 
 
-![Screenshot (56)](https://github.com/KhaledElnassag/Talabat/assets/86826553/5f7777da-12cc-489d-bd9f-4896d0c49d90)
-
-![Screenshot (57)](https://github.com/KhaledElnassag/Talabat/assets/86826553/5e2ec7ef-8ec8-41b9-a247-dc6d0c95e142)
 
 
